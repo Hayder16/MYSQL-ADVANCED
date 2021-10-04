@@ -1,7 +1,7 @@
 -- Opdracht 1
 UPDATE studenten2 SET woonplaats = 'Amstelveen';
 -- Opdracht 2 
-UPDATE studenten2 SET adres = 'van hallstraat 99' postcode = '1262AD' WHERE student_id = 8;
+UPDATE studenten2 SET adres = 'van hallstraat 99', postcode = '1262AD' WHERE student_id = 8;
 UPDATE studenten2 SET adres = 'van Allberenlaan 2', postcode = '1929AF' WHERE student_id = 9;
 UPDATE studenten2 SET adres = 'Stierlaan 66', postcode = '1425BC' WHERE student_id = 10;
 -- Opdracht 3
